@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    background-image:url(fer.jpeg);
+    padding: 50px;
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    
+}
+img{
+    /* margin-left: 40%; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+table {
+    
+    border-collapse: collapse;
+    width: 40%;
+  }
+  
+th, td {
+    margin-left: 40%;
+    padding: 10px;
+}
+
+
+#name{
+    width: 30%;
+    padding: 10px 10px;
+    margin: 8px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 2px 5px rgb(229, 228, 228);
+}
+#email{
+    width: 30%;
+    padding: 10px 10px;
+    margin: 8px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 2px 5px rgb(229, 228, 228);
+}
+#subject{
+    width: 30%;
+    padding: 10px 10px;
+    margin: 8px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 2px 5px rgb(229, 228, 228);
+}
+#massage{
+    width: 30%;
+    padding: 30px 30px;
+    margin: 8px ;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 2px 5px rgb(229, 228, 228);
+}
+#submit{
+    color: white;
+    background-color: #03bb5f;
+    width: 30%;
+    margin: 8px ;
+    padding: 10px 10px;
+    border: 1px solid #03bb5f;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+#submit:hover{
+    box-shadow: 2px 5px rgb(229, 228, 228);
+}
+
